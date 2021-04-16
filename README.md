@@ -23,3 +23,8 @@ This code is used to list the folder structure and contents of S3 buckets using 
 
    python flask-app.py 
    
+## Output of the script
+
+ ![image](https://user-images.githubusercontent.com/73812792/115014600-2cfb8780-9ed0-11eb-9f12-ce44dea6b76d.png)
+
+   
