@@ -31,6 +31,15 @@ This code is used to list the folder structure and contents of S3 buckets using 
   <img src="images/local_execution.PNG" width="500">
   </p>
 
+## EC2 Instance Security Group 
+
+  In order to access the flask-app via the EC2-public URL Security groups have to be configured 
+
+  - Inbound Rules 
+  <p>
+  <img src="images/inbound.PNG" width="500">
+  </p>
+
 ## Accessing the EC2-deployed flask-app via the EC2-public URL at the port 8085
   
   <p>
