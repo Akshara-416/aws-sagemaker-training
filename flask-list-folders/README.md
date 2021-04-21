@@ -55,7 +55,7 @@ This code is used to list the folder structure and contents of S3 buckets using 
   <img src="images/cost_allocation_tags.PNG" width="700">
   </p>
 
-## Billing Report
+## Billing Report grouped by tags
 
    The Billing Report can be viewed filtering on specific tags. 
    Here **aws-training** is the tag created and **assignment-1** is the value
@@ -63,7 +63,15 @@ This code is used to list the folder structure and contents of S3 buckets using 
    <p>
   <img src="images/Billing _Report.PNG" width="700">
   </p>
+  
 
+## Billing Report grouped by service
+
+   The Billing Report can be viewed grouping by service
+   
+   <p>
+  <img src="images/billing_service.PNG" width="700">
+  </p>
 
 ## Billing Configuration
 
@@ -79,7 +87,22 @@ This code is used to list the folder structure and contents of S3 buckets using 
   <img src="images/Billing_preferences.PNG" width="800">
   </p>
    
-   
+ ## Free Tier Usage 
  
+  - Data Transfer Usage
+ 
+  <p>
+  <img src="images/data_transfer.PNG" width="800">
+  </p>
+  
+  - EC2 and S3 Usage
 
-   
+  <p>
+  <img src="images/report-2.PNG" width="800">
+  </p>
+
+- Cost incurred on Budget Report
+ 
+   <p>
+  <img src="images/budget_report.PNG" width="700">
+  </p>
