@@ -37,7 +37,7 @@ This code is used to list the folder structure and contents of S3 buckets using 
 
   - Inbound Rules 
   <p>
-  <img src="images/inbound.PNG" width="500">
+  <img src="images/inbound.PNG" width="600">
   </p>
 
 ## Accessing the EC2-deployed flask-app via the EC2-public URL at the port 8085
