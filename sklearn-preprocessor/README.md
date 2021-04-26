@@ -47,25 +47,25 @@ This code is used for pre processing the raw data using AWS Sagemaker
 ## Training job created in AWS Sagemaker Console:
 
   <p>
-  <img src="images/train_one.PNG" width="700">
+  <img src="images/train_one.PNG" width="800">
   </p>
   
 ## Batch Transform job created in AWS Sagemaker Console:
 
   <p>
-  <img src="images/batch_one.PNG" width="700">
+  <img src="images/batch_one.PNG" width="800">
   </p> 
   <p>
-  <img src="images/batch_two.PNG" width="700">
+  <img src="images/batch_two.PNG" width="800">
   </p> 
 
 ## Endpoint created in AWS Sagemaker Console:
 
   <p>
-  <img src="images/endpoint_two.PNG" width="600">
+  <img src="images/endpoint_two.PNG" width="800">
   </p>
   <p>
-  <img src="images/endpoint_three.PNG" width="600">
+  <img src="images/endpoint_three.PNG" width="800">
   </p>
 
 ## Billing Report - grouped by service 
@@ -74,7 +74,7 @@ This code is used for pre processing the raw data using AWS Sagemaker
 
   - Inbound Rules 
   <p>
-  <img src="images/billing_service.PNG" width="700">
+  <img src="images/billing_service.PNG" width="800">
   </p>
 
 ## Billing Report - grouped by tags 
@@ -83,7 +83,7 @@ This code is used for pre processing the raw data using AWS Sagemaker
 
   - Inbound Rules 
   <p>
-  <img src="images/billing_tags.PNG" width="700">
+  <img src="images/billing_tags.PNG" width="800">
   </p>
 
  ## Free Tier Usage 
@@ -97,5 +97,5 @@ This code is used for pre processing the raw data using AWS Sagemaker
   - Sagemaker and S3 Usage
  
    <p>
-  <img src="images/usage_two.PNG" width="700">
+  <img src="images/usage_two.PNG" width="800">
   </p>
