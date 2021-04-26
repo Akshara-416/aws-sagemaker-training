@@ -1,6 +1,6 @@
 # sklearn-pre-processor
 
-This code is used for pre processing the raw data
+This code is used for pre processing the raw data using AWS Sagemaker 
 
 ## Install the dependencies from requirements file
 
