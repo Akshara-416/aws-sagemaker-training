@@ -40,49 +40,49 @@ This code is used for training and deploying inbuilt XGBoost estimator using AWS
 ### x-axis: num_round, y-axis: train:rmse
 
   <p>
-  <img src="images/chart_one.PNG" width="600">
+  <img src="images/chart_one.PNG" width="700">
   </p>
   
 ### x-axis: num_round, y-axis: validation:rmse
 
   <p>
-  <img src="images/chart_two.PNG" width="600">
+  <img src="images/chart_two.PNG" width="700">
   </p>
   
 ### x-axis: gamma, y-axis: train:rmse
 
   <p>
-  <img src="images/chart_three.PNG" width="600">
+  <img src="images/chart_three.PNG" width="700">
   </p>
   
 ### x-axis: gamma, y-axis: validation:rmse
 
   <p>
-  <img src="images/chart_four.PNG" width="600">
+  <img src="images/chart_four.PNG" width="700">
   </p>
   
 ### x-axis: eta, y-axis: train:rmse
 
   <p>
-  <img src="images/chart_five.PNG" width="600">
+  <img src="images/chart_five.PNG" width="700">
   </p>
   
 ### x-axis: eta, y-axis: validation:rmse
 
   <p>
-  <img src="images/chart_six.PNG" width="600">
+  <img src="images/chart_six.PNG" width="700">
   </p>
   
 ### x-axis: max_depth, y-axis: train:rmse
 
   <p>
-  <img src="images/chart_seven.PNG" width="600">
+  <img src="images/chart_seven.PNG" width="700">
   </p>
   
 ### x-axis: max_depth, y-axis: validation:rmse
 
   <p>
-  <img src="images/chart_eight.PNG" width="600">
+  <img src="images/chart_eight.PNG" width="700">
   </p>
   
 ## Billing Report - grouped by service 
