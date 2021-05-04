@@ -9,3 +9,7 @@ This repository consists of folders for each assignment
 ## sklearn-preprocessor
 
    This code is used for pre processing the raw data ( both Batch and Real Time Transformation) using AWS Sagemaker 
+   
+## xgboost-estimator
+
+   This code is used for training and deploying inbuilt AWS Sagemaker XGBoost estimator 
