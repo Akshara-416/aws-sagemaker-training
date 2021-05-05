@@ -2,11 +2,15 @@
 
 This code is used for training and deploying inbuilt XGBoost estimator using AWS Sagemaker 
 
-## Install the dependencies from requirements file
+## Create the environment from .yml file
 
-   - pip install -r requirements.txt
+   - conda env create -f env.yml
    
-   The requirements file consists of all the required dependencies to be installed
+   The environment file consists of all the required dependencies to be installed
+
+## Activate the environment created
+
+   - conda activate sagemaker-env
    
 ## Make sure to add your credentials in the file ~/.aws/credentials
 
